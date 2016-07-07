@@ -1,0 +1,6 @@
+4	2 	1
+read	write	execute
+
+sudo -i -H change from normal user to supper user
+
+
